@@ -16,4 +16,5 @@ The full score you can get is **100**.
 If the player crash into any obstacle, the game will restart automatically.
 
 Play the game:
+<br />
 [![Unity C# game: AvoidCrash](https://res.cloudinary.com/marcomontalbano/image/upload/v1656260868/video_to_markdown/images/youtube--VGfgWcPRDCU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/VGfgWcPRDCU "Unity C# game: AvoidCrash")
