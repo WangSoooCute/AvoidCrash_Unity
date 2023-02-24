@@ -1,6 +1,10 @@
 # AvoidCrash_Unity
 Unity C# game
 
+```diff
+- You can download the Windows version of the game in Releases in the right sidebar！！！
+```
+
 _**Avoid to crash into any obstacle!**_
 
 Press "**F**" to push the player to the **left**;
@@ -9,7 +13,7 @@ Press "**J**" to push the player to the **right**;
 <br />
 Press "**Esc**" at any time to exit the **Game**;
 
-Only one scene.
+There is only one scene in this game.
 <br />
 The full score you can get is **100**.
 <br />
